@@ -1,0 +1,28 @@
+table,th,td{
+border: 1px solid black;
+border-collapse: collapse;
+padding: 3px 50px;
+}
+th{
+    text-align: left;
+    color: antiquewhite;
+    background-color:blue;
+}
+td{
+    text-align: center;
+}
+caption{
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    line-height: 35px;
+}
+table{
+    margin: 0 auto;
+}
+tr:nth-child(even){
+    background-color: aqua;
+}
+tr:nth-child(odd){
+    background-color: burlywood;
+}
