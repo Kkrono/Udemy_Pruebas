@@ -26,3 +26,6 @@ tr:nth-child(even){
 tr:nth-child(odd){
     background-color: burlywood;
 }
+ul{
+    list-style-type: square;
+}
