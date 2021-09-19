@@ -23,3 +23,14 @@ li a{
 li a:hover{
     background-color: aqua;
 }
+p{
+    text-align: center;
+    color: red;
+}
+.textoAzul{
+    background-color: blue;
+    color: white;
+}
+#id_001{
+    color: blueviolet;    
+}
